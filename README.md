@@ -5,7 +5,7 @@ Full Stack Developer
 --------------------
 * 🌍  I'm based in Berlin
 * ✉️  You can contact me at [wiegardmilan@gmail.com](mailto:wiegardmilan@gmail.com)
-* 🚀  I'm currently working on [my app Humid](http://https://apps.apple.com/app/humid-social-revolution/id6443990893?ppid=bb06e9b4-87a8-4598-582da16c2d6a)
+* 🚀  I'm currently working on [my app Humid](https://apps.apple.com/app/humid-social-revolution/id6443990893?ppid=bb06e9b4-87a8-4598-582da16c2d6a)
 * 🤝  I'm open to collaborating on interesting projects that have a big impact on the world.
 * ⚡  I’m also currently studying at 42 Berlin to meet some nice people.
 
